@@ -1,4 +1,4 @@
-# Repositorio-Pie de pagina en flutterflow
+# Pie de pagina en flutterflow
 Acontinuacion te deja el link de mi proyecto de pie de pagina en Flutterflow: https://app.flutterflow.io/run/kN5o8SQISChdLcUHqwB4
 
 Te dejare el codigo de mi proyecto de Flutterflow a continuacion:
